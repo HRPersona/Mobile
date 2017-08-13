@@ -20,14 +20,14 @@ class Login extends Component {
         </Header>
         <Content>
           <Text style={styles.title}>Persona HR</Text>
-          <Form style={styles.form}>
+          <Form>
             <Item floatingLabel>
               <Label>Username</Label>
-              <Input />
+              <Input style={{ marginLeft: 0 }} />
             </Item>
             <Item floatingLabel>
               <Label>Password</Label>
-              <Input secureTextEntry />
+              <Input secureTextEntry style={{ marginLeft: 0 }} />
             </Item>
             <Button style={styles.btn} block><Text>Login</Text></Button>
           </Form>
