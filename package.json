@@ -4,7 +4,7 @@
   "description": "Hello Expo!",
   "author": null,
   "private": true,
-  "main": "node_modules/expo/AppEntry.js",
+  "main": "App.js",
   "dependencies": {
     "expo": "^19.0.0",
     "native-base": "^2.3.1",
