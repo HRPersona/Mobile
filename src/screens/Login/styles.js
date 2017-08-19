@@ -21,7 +21,8 @@ const styles = StyleSheet.create({
     marginTop: 20,
     marginLeft: 'auto',
     marginRight: 'auto'
-  }
+  },
+  message: { width: '100%', textAlign: 'center', marginTop: 30 }
 });
 
 export default styles;
