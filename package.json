@@ -6,6 +6,7 @@
   "private": true,
   "main": "App.js",
   "dependencies": {
+    "axios": "^0.16.2",
     "expo": "^19.0.0",
     "native-base": "^2.3.1",
     "react": "16.0.0-alpha.12",
